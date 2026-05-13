@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snesti-sait.github.io/sitemap.xml

@@ -1,0 +1,28 @@
+Финальная техническая полировка LegalClean
+
+visible_words: 1245
+h1: 1
+h2: 8
+h3: 16
+html_comments: 0
+react_vite_markers: 0
+cta_telegram: 6
+снос сайта: 7
+поисковой выдачи: 5
+яндекс: 18
+google: 21
+ркн: 15
+деиндексац: 3
+понижение: 13
+конкурент: 8
+скам: 8
+фишинг: 6
+зеркал: 27
+url: 28
+удаление сайта: 2
+убрать сайт: 2
+защищённый: 3
+отстоявшийся: 4
+
+Файлы: index.html, robots.txt, sitemap.xml, site.webmanifest, browserconfig.xml, favicon.svg, favicon.ico, favicon PNG 16/32, apple-touch-icon.png, android icons 192/512, mstile, og-image.svg, og-image.png, assets/logo.svg, assets/hero-dashboard.svg, assets/process-map.svg, .nojekyll.
+HTML-комментариев нет. React/Vite нет. Все CTA ведут в tg://resolve?domain=casper_2026.
